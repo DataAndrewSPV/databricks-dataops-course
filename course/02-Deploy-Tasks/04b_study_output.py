@@ -16,4 +16,9 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC
+# MAGIC acme_transport_taxinyc.dev_andrewwakefield_featgh123coogee_4c6799ab_revenue.borough_population
+# MAGIC acme_transport_taxinyc.dev_andrewwakefield_featgh123coogee_4c6799ab_revenue.revenue_by_borough
+# MAGIC acme_transport_taxinyc.dev_andrewwakefield_featgh123coogee_4c6799ab_revenue.revenue_by_tripmonth
+# MAGIC acme_transport_taxinyc.dev_andrewwakefield_featgh123coogee_4c6799ab_revenue.revenue_per_inhabitant
+# MAGIC acme_transport_taxinyc.dev_andrewwakefield_featgh123coogee_4c6799ab_revenue.static_data

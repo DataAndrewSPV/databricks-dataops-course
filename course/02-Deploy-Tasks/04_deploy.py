@@ -46,8 +46,8 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC A job is the set of instructions, orchestration and scheduling. The job run is an instance of the job being run.
 # MAGIC
-# MAGIC Answer here...
 
 # COMMAND ----------
 
@@ -60,4 +60,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The job name is a combination of the database, developer name, subfolder and branch name.
